@@ -13,10 +13,17 @@ git init
 git branch -M main
 ```
 
-## Add a file to the GIT Repo
+## Add file(s) to the GIT Repo
 
 ```bash
+# Add one file
 git add filename.txt
+
+# Add a directory
+# git add notes/
+
+# Add everything
+# git add .
 ```
 
 ## Check the GIT Repo Files
@@ -38,3 +45,4 @@ git status
 ```
 
 ...
+git add .
