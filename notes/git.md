@@ -48,4 +48,12 @@ git commit -m "Adding Placeholder File"
 git status
 ```
 
+## Add Upstream Origin & Set Default Branch
+
+```bash
+git remote add origin https://github.com/niliopoulos89/arista_ace_l5.git
+
+git push -u origin main
+```
+
 ...
