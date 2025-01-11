@@ -35,7 +35,11 @@ git ls-files
 ## Commit  the GIT Repo Files
 
 ```bash
+# Commit most recent change(s)
 git commit -m "Adding Placeholder File"
+
+# Commit everything
+# git commit -a -m "added everything"
 ```
 
 ## Check Current GIT Status
@@ -45,4 +49,3 @@ git status
 ```
 
 ...
-git add .
